@@ -21,3 +21,4 @@ Lista de participantes:
 - Agustín Ricardo Rodríguez Mendoza <agustin890831@gmail.com> ([AgustinRicardo](https://github.com/AgustinRicardo))
 - Oriol Rocabert <oriol.rocabert.valverde@gmail.com> ([oriolrv](https://github.com/OriolRV/postgraufullstack.git))
 - Joan Sisquella <joan.sisquella@forgeflow.com> ([JoanSForgeFlow](https://github.com/JoanSForgeFlow))
+- Santiago Amoros <santiago.amoros@estudiantat.upc.edu> ([crazypurpleunicorn])(https://github.com/crazypurpleunicorn)

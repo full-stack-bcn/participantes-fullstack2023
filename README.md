@@ -3,6 +3,7 @@
 Lista de participantes:
 - Kegan Akinsanmi <kegan.michael.akinsanmi@estudiantat.upc.edu> ([KeganAk](https://github.com/KeganAk))
 - Alejandro Alarcon <alejandro.alarcon.cano@gmail.com> ([alejandroac6](https://github.com/alejandroac6))
+- Santiago Amoros <santiago.amoros@estudiantat.upc.edu> ([crazypurpleunicorn](https://github.com/crazypurpleunicorn))
 - Sebastian Arias <*email?*> ([SebasAriasDEV](https://github.com/SebasAriasDEV))
 - David Ayats <daayros@protonmail.com> ([PelfSollution](https://github.com/PelfSollution))
 - Ivan Caminal <ivancaminal72@gmail.com> ([ivancaminal72](https://github.com/ivancaminal72))
@@ -21,4 +22,4 @@ Lista de participantes:
 - Agustín Ricardo Rodríguez Mendoza <agustin890831@gmail.com> ([AgustinRicardo](https://github.com/AgustinRicardo))
 - Oriol Rocabert <oriol.rocabert.valverde@gmail.com> ([oriolrv](https://github.com/OriolRV/postgraufullstack.git))
 - Joan Sisquella <joan.sisquella@forgeflow.com> ([JoanSForgeFlow](https://github.com/JoanSForgeFlow))
-- Santiago Amoros <santiago.amoros@estudiantat.upc.edu> ([crazypurpleunicorn](https://github.com/crazypurpleunicorn))
+

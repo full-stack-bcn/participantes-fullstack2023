@@ -3,7 +3,7 @@
 Lista de participantes:
 - Kegan Akinsanmi <kegan.michael.akinsanmi@estudiantat.upc.edu> ([KeganAk](https://github.com/KeganAk))
 - Alejandro Alarcon <alejandro.alarcon.cano@gmail.com> ([alejandroac6](https://github.com/alejandroac6))
-- Sebastian Arias <*email?*> ([SebasAriasDEV](https://github.com/SebasAriasDEV))
+- Sebastian Arias <sebasariasdev@gmail.com> ([SebasAriasDEV](https://github.com/SebasAriasDEV))
 - David Ayats <daayros@protonmail.com> ([PelfSollution](https://github.com/PelfSollution))
 - Ivan Caminal <ivancaminal72@gmail.com> ([ivancaminal72](https://github.com/ivancaminal72))
 - Jose Luis Ceballos Suta <*email?*> ([github](https://github.com/Joshua030/))

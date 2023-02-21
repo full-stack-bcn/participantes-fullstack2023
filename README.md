@@ -10,6 +10,7 @@ Lista de participantes:
 - Jose Luis Ceballos Suta <joseluy123@gmail.com> ([github](https://github.com/Joshua030/))
 - Cristian Manuel Ceballos Suta <cmceballos88@gmail.com> ([github](https://github.com/AmbroseKainGit))
 - Jose Colomer <jococi99@gmail.com> ([jcolomeer](https://github.com/jcolomeer))
+- Angel Diaz <warydiaz@hotmail.com> ([warydiaz](https://github.com/warydiaz))
 - Fabian Espinosa fabianespinosa1988@gmail.com ([FabianEspinosa](https://github.com/FabianEspinosa))
 - Javi Gauxachs <javi.gauxachs@gmail.com> ([Idyos](https://github.com/Idyos))
 - Sergi Gómez <sergi@sergigomez.com> ([sergigomezfoto](https://github.com/sergigomezfoto))

@@ -20,7 +20,7 @@ Lista de participantes:
 - Mateu Miralles <mateumiralles714@gmail.com> ([mateumiralles](https://github.com/mateumiralles))
 - Rubén Montagut <ruben.pinell01@gmail.com> ([rubenmontagut](https://github.com/rubenmontagut))
 - María Celeste Ortiz Llano <maria.celeste.ortz@gmail.com> ([mceleste3](https://github.com/mceleste3))
-- Santiago Ramírez Agudelo <santiagoramirezagudelo@gmail.com> ([santrami][https://github.com/santrami])
+- Santiago Ramírez Agudelo <santiagoramirezagudelo@gmail.com> ([santrami](https://github.com/santrami))
 - Agustín Ricardo Rodríguez Mendoza <agustin890831@gmail.com> ([AgustinRicardo](https://github.com/AgustinRicardo))
 - Oriol Rocabert <oriol.rocabert.valverde@gmail.com> ([oriolrv](https://github.com/OriolRV/postgraufullstack.git))
 - Joan Sisquella <joan.sisquella@forgeflow.com> ([JoanSForgeFlow](https://github.com/JoanSForgeFlow))
